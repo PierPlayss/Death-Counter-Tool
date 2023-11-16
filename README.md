@@ -1,1 +1,2 @@
-# Death Counter Tool for streaming
+# DCT
+Is a tool made for counting for streaming
